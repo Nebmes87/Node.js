@@ -1,0 +1,11 @@
+{
+  "name": "generate-unique-password",
+  "version": "1.0.3",
+  "description": "generate-unique-password generates unique password is a library for generating random and unique passwords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AleksnikaPro",
+  "license": "ISC"
+}
